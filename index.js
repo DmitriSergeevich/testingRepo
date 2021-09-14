@@ -1,3 +1,3 @@
-const greeting = 'Hello world'
-
-console.log(greeting)
+const greeting = 'Hello world '
+const myName = 'Mitiya'
+console.log(greeting + myName)
